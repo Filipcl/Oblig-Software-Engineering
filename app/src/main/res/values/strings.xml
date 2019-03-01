@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">filipcl_in2000_oblig1</string>
+    <string name="ole_johan_dahls_hus">ole_johan_dahls_hus</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="converterbutton">Convert</string>
+    <string name="value_in_cm">Value in cm</string>
+    <string name="innhold">innhold</string>
+    <string name="tittel">tittel</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_content">Enter content</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+</resources>
